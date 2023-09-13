@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Ryan Lindner 👋
+
+### I'm a Full stack Developer, Tech Geek, Professional* Gamer, Musician, Perpetual Math Student, and Excellent** Martial Artist
+
+- 🌱 I’m currently working on refactoring my last project, adding CI/CD workflows after I learn how
+- 
+
+<a href="https://www.linkedin.com/in/ryan-m-lindner">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+
 
 <!--
 **ryanMlindner/ryanMlindner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
