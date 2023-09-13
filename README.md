@@ -19,7 +19,7 @@
 - 📚 I'm learning more about algorithms by going through textbooks and online resources, always happy to talk about it!
 - 💬 Ask me about addiction recovery! Currently three years sober, and open to sharing anything about my journey :)
 
-* I have technically been paid to play video games in my life, therefore I am technically a professional
+*I have technically been paid to play video games in my life, therefore I am technically a professional
 
 <!--
 **ryanMlindner/ryanMlindner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
