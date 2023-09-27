@@ -19,6 +19,12 @@
 - 📚 I'm learning more about algorithms by going through textbooks and online resources, always happy to talk about it!
 - 💬 Ask me about addiction recovery! Currently three years sober, and open to sharing anything about my journey :)
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+
 <h6>I have technically been paid to play video games in my life, therefore I am technically a professional</h6>
 
 <!--
