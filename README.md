@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently working on refactoring my last project, adding CI/CD workflows after I learn how
 - 📚 I'm learning more about algorithms by going through textbooks and online resources, always happy to talk about it!
-- 💬 Ask me about addiction recovery! Currently three years sober, and open to sharing anything about my journey :)
+- 💬 Ask me about how to Dockerize your project onto a friends raspberry pi. Prerequisites include: a project, a friend, a raspberry pi.
 
 <!--
 ### Blog posts
